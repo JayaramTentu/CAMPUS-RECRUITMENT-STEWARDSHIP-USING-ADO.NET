@@ -14,8 +14,30 @@ Application Tracking: Monitor the status of student applications for different j
 
 Database Interaction: Efficient use of ADO.NET to perform CRUD operations (Create, Read, Update, Delete) on SQL Server databases.
 
+Modules
 
-TECHNOLOGIES USED
+Student Module:
+
+Students can submit applications for available jobs.
+
+Profile creation and update using ADO.NET for CRUD operations on student data.
+
+Training and Placement Officer (TPO) Module:
+
+TPOs send qualified student profiles to companies for consideration.
+
+TPOs receive job postings and company details from employers and distribute relevant information to students.
+
+Company Module:
+
+Companies can post new job opportunities, including job descriptions, requirements, and deadlines.
+
+Companies receive student data (profiles and applications) from TPOs for review.
+
+Companies accept or reject students based on submitted profiles or interviews.
+
+
+TECHNOLOGIES USED :
 
 C#
 
@@ -24,3 +46,4 @@ ADO.NET
 SQL Server
 
 Windows Forms 
+
