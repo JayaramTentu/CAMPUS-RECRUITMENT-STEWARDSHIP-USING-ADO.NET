@@ -5,6 +5,7 @@ Dessription:
 This project, Campus Recruitment Stewardship, is designed to streamline and enhance the campus recruitment process by providing a platform for managing student applications, job postings, and employer interactions. Built using ADO.NET for data access, this application allows for efficient communication between students, employers, and campus recruitment teams, ensuring a smooth workflow for recruitment management.
 
 keys:
+
 Student Management: Track student details, academic qualifications, and resumes.
 
 Job Postings: Employers can post job opportunities, and students can view and apply.
