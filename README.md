@@ -36,6 +36,12 @@ Modules
 
             Companies accept or reject students based on submitted profiles or interviews.
 
+    Company Recruitment Process:
+         
+          Companies receive student profiles from the TPO and review them for job fit.
+
+          Companies send acceptance or rejection responses back to the TPO, who communicates the result to students.
+
 
 TECHNOLOGIES USED :
 
