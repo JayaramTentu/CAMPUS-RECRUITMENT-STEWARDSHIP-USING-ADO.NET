@@ -6,44 +6,44 @@ This project, Campus Recruitment Stewardship, is designed to streamline and enha
 
 keys:
 
-Student Management: Track student details, academic qualifications, and resumes.
+           Student Management: Track student details, academic qualifications, and resumes.
 
-Job Postings: Employers can post job opportunities, and students can view and apply.
+           Job Postings: Employers can post job opportunities, and students can view and apply.
 
-Application Tracking: Monitor the status of student applications for different job postings.
+           Application Tracking: Monitor the status of student applications for different job postings.
 
-Database Interaction: Efficient use of ADO.NET to perform CRUD operations (Create, Read, Update, Delete) on SQL Server databases.
+           Database Interaction: Efficient use of ADO.NET to perform CRUD operations (Create, Read, Update, Delete) on SQL Server databases.
 
 Modules
 
-Student Module:
+     Student Module:
 
-Students can submit applications for available jobs.
+            Students can submit applications for available jobs.
 
-Profile creation and update using ADO.NET for CRUD operations on student data.
+            Profile creation and update using ADO.NET for CRUD operations on student data.
 
-Training and Placement Officer (TPO) Module:
+            Training and Placement Officer (TPO) Module:
 
-TPOs send qualified student profiles to companies for consideration.
+            TPOs send qualified student profiles to companies for consideration.
 
-TPOs receive job postings and company details from employers and distribute relevant information to students.
+            TPOs receive job postings and company details from employers and distribute relevant information to students.
 
-Company Module:
+    Company Module:
 
-Companies can post new job opportunities, including job descriptions, requirements, and deadlines.
+            Companies can post new job opportunities, including job descriptions, requirements, and deadlines.
 
-Companies receive student data (profiles and applications) from TPOs for review.
+            Companies receive student data (profiles and applications) from TPOs for review.
 
-Companies accept or reject students based on submitted profiles or interviews.
+            Companies accept or reject students based on submitted profiles or interviews.
 
 
 TECHNOLOGIES USED :
 
-C#
+     C#
 
-ADO.NET
+    ADO.NET
 
-SQL Server
+    SQL Server
 
-Windows Forms 
+    Windows Forms 
 
