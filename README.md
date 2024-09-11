@@ -6,14 +6,20 @@ This project, Campus Recruitment Stewardship, is designed to streamline and enha
 
 keys:
 Student Management: Track student details, academic qualifications, and resumes.
+
 Job Postings: Employers can post job opportunities, and students can view and apply.
+
 Application Tracking: Monitor the status of student applications for different job postings.
+
 Database Interaction: Efficient use of ADO.NET to perform CRUD operations (Create, Read, Update, Delete) on SQL Server databases.
 
 
 TECHNOLOGIES USED
 
 C#
+
 ADO.NET
+
 SQL Server
+
 Windows Forms 
